@@ -1,0 +1,17 @@
+---
+title: "Choropleten"
+date: 11. Januar 2020
+---
+
+## Vorbereitung
+
+## Grundkarte
+
+## OSM-Daten 
+
+## Koordinatenreferenzsysteme
+
+## Verschneiden
+
+## Visualisieren
+
